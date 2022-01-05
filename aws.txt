@@ -1,0 +1,37 @@
+AWS的官方文档： https://docs.aws.amazon.com/
+
+AWS技术白皮书： https://aws.amazon.com/cn/whitepapers/
+
+AWS中文技术博客 https://aws.amazon.com/cn/blogs/china/
+
+AWS的学习路径 https://aws.amazon.com/cn/training/learn-about/
+
+AWS全球公开的培训课程，可以按时间注册 https://aws.amazon.com/cn/training/events/?nc2=sb_tr_evt&get-certified-vilt-courses-cards.sort-by=item.additionalFields.startDateSort&get-certified-vilt-courses-cards.sort-order=asc
+
+AWS认证的介绍，包括路径、资源、备考事项等等 https://aws.amazon.com/cn/certification/
+
+AWS 服务和技能Workshop 上百个动手实验 https://workshops.aws/
+
+AWS 系统现代化workshop 28个动手实验 https://awsworkshop.io/
+
+第三方搜集的按服务类型分类的AWS workshop，包括动手练习和Github资源 https://awesome-aws-workshops.com/
+
+提供临时AWS资源的动手实验，一般是收费的 https://amazon.qwiklabs.com/
+
+A Cloud Guru 上的AWS视频课程，包括所有AWS认证的课程。大多是收费的 https://acloudguru.com/aws-cloud-training
+
+Github上的aws samples，有1800个sample https://github.com/aws-samples
+
+AWS面向合作伙伴的课程目录介绍，包括在线的和课堂培训 https://d1.awsstatic.com/training-and-certification/partner-training/aws-partners-course-catalog.pdf
+
+AWS的合作伙伴课程 https://amazonaws-china.com/partners/training/partner-course-schedule/ 其中最基础的重要课程是 AWS Business Professional Bootcamp
+
+AWS针对Partner的学习路径规划工具，满足不同的角色的要求 https://pages.awscloud.com/AWS-Partner-Learning-Path-Tool.html
+
+AWS 业务专业人士资格认证 https://www.aws.training/Details/Curriculum?id=38303
+
+AWS TCO 及云经济学 https://www.aws.training/Details/eLearning?id=40768
+
+AWS 技术专业人士资格认证 https://www.aws.training/Details/Curriculum?id=50060
+
+AWS 合作伙伴培训和认证 https://aws.amazon.com/cn/partners/training/
